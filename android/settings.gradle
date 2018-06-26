@@ -1,0 +1,3 @@
+rootProject.name = 'consulta_expedientes'
+
+include ':app'
